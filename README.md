@@ -1,6 +1,6 @@
 ## Pokedata
 
-The purpose of this script is to use the [PokeApi]() to fetch Pokemon data and parse it in the format for a Jenga Card. It will help in automating the process of creating more cards in Adobe Photoshop.
+The purpose of this script is to use the [PokeApi](https://pokeapi.co/) to fetch Pokemon data and parse it in the format for a Jenga Card. It will help in automating the process of creating more cards in Adobe Photoshop.
 
 Feel free to fork and modify the script in any way.
 
